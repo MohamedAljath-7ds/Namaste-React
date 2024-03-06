@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709692386180" clover="3.2.0">
+  <project timestamp="1709692386180" name="All files">
+    <metrics statements="65" coveredstatements="54" conditionals="12" coveredconditionals="9" methods="26" coveredmethods="16" elements="103" coveredelements="79" complexity="0" loc="65" ncloc="65" packages="2" files="10" classes="10"/>
+    <package name="components">
+      <metrics statements="46" coveredstatements="41" conditionals="12" coveredconditionals="9" methods="19" coveredmethods="15"/>
+      <file name="Body.js" path="C:\Users\Aljath\react\src\components\Body.js">
+        <metrics statements="25" coveredstatements="20" conditionals="6" coveredconditionals="5" methods="10" coveredmethods="6"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="52" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="62" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="9" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="106" count="18" type="stmt"/>
+      </file>
+      <file name="Contact.js" path="C:\Users\Aljath\react\src\components\Contact.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\Users\Aljath\react\src\components\Header.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="45" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="Rescard.js" path="C:\Users\Aljath\react\src\components\Rescard.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="6" count="20" type="stmt"/>
+        <line num="9" count="20" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+      </file>
+      <file name="Shimmer.js" path="C:\Users\Aljath\react\src\components\Shimmer.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="sum.js" path="C:\Users\Aljath\react\src\components\sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="19" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="1"/>
+      <file name="appstore.js" path="C:\Users\Aljath\react\src\utils\appstore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="cartslices.js" path="C:\Users\Aljath\react\src\utils\cartslices.js">
+        <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+      <file name="constans.js" path="C:\Users\Aljath\react\src\utils\constans.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="useOnlinestatus.js" path="C:\Users\Aljath\react\src\utils\useOnlinestatus.js">
+        <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
