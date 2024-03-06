@@ -4,7 +4,7 @@
 This project was developed as part of the Namaste React course It follows along with the concepts taught in the course, including setting up a React environment, building components, and integrating external APIs. The tutorial has been invaluable in guiding the development process and enhancing my understanding of React.js.
 
 ## Overview
-The Food Club App is a web application built with HTML, Tailwind CSS, and React.js. It provides users with a convenient platform to order food from a variety of restaurants. The app interacts with live Swiggy APIs to fetch restaurant data, eliminating the need for a backend or database.
+The FeastFinder App is a web application built with HTML, Tailwind CSS, and React.js. It provides users with a convenient platform to order food from a variety of restaurants. The app interacts with live Swiggy APIs to fetch restaurant data, eliminating the need for a backend or database.
 
 ## Features
 - Search functionality to find restaurants based on location, cuisine, or specific dishes.
